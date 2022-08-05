@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Jain</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Fullstack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aayush1017](https://github.com/aayush1017)
 
